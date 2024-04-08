@@ -24,6 +24,10 @@
         flex-direction: column-reverse;
     }
 
+    .contact-container{
+        margin-left: -0.7rem;
+    }
+
     .contact-container h5{
         font-size: 1.3rem;
         margin-bottom: 2rem;
