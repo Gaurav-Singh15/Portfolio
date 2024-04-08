@@ -45,6 +45,7 @@
 @media (max-width: 768px){
     .project-card{
         margin: 0;
+        height: 270px;
     }
 
     .project-card h6{
