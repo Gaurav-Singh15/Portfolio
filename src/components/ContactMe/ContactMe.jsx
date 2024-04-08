@@ -20,6 +20,11 @@ const ContactMe = () => {
                 text="https://github.com/Gaurav-Singh15"
                 reference="Github"
                 />
+                <ContactInfoCard
+                iconurl="https://aliciavalero.com/wp-content/uploads/2020/11/logo-Linkedin.png"
+                text="https://www.linkedin.com/in/gaurav-singh-7b9961218/"
+                reference="LinkedIn"
+                />
             </div>
             {/* <div style={{flex: 1}}>
                 <ContactForm/>
