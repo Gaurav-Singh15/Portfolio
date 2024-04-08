@@ -28,4 +28,8 @@
         font-size: 1.3rem;
         margin-bottom: 2rem;
     }
+
+    .contact{
+        gap: 0.2rem;
+    }
 }
