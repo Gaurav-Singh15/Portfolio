@@ -16,10 +16,9 @@ const Hero = () => {
 
         <div className='hero-img'>
              
-          {*<img src="https://tse1.mm.bing.net/th?id=OIP.aD3SqchEX6oHOREGbDqe0AHaE7&pid=Api&P=0&h=180" alt="" />*}
+             {/* <img src="https://tse1.mm.bing.net/th?id=OIP.aD3SqchEX6oHOREGbDqe0AHaE7&pid=Api&P=0&h=180" alt="" /> */}
                 
-            <img src="https://lh3.googleusercontent.com/pw/AP1GczNAk1zlG31SToErO2bbkmAMni1frcjmt4MidByScAIr-MzAiIUDryuv0vqj5VtTsiDbY5pUl5Nzeu-2Rtxxe1Sm5dOHhj-okwOQdeqn50CX3EBuA8-fyO_dv-gvIdWPpsdand53VnKha3KJe5Vv_Kq08w=w910-h911-s-no-gm?authuser=0" alt=""/>
-            
+                <img src='https://lh3.googleusercontent.com/pw/AP1GczNAk1zlG31SToErO2bbkmAMni1frcjmt4MidByScAIr-MzAiIUDryuv0vqj5VtTsiDbY5pUl5Nzeu-2Rtxxe1Sm5dOHhj-okwOQdeqn50CX3EBuA8-fyO_dv-gvIdWPpsdand53VnKha3KJe5Vv_Kq08w=w910-h911-s-no-gm?authuser=0' alt=''/> 
             {/* <div>
                 <div className='tech-icon'>
                     <img src="portfolio\src\Images\icons8-java-48.png" alt="" />
