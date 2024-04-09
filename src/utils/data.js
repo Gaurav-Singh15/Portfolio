@@ -48,6 +48,14 @@ export const SKILLS = [
 
 export const PROJECTS = [
     {
+        title : "Authentication",
+        techStack : "Developed using MERN Stack.",
+        responsibilities: [
+            "Authentication is an Open Source UI for Signup and Login.",
+            "A full stack authentication application built using the MERN Stack and JWT for token based authentication."
+        ]
+    },
+    {
         title : "Weather Forecast App",
         techStack : "Developed using MERN Stack.",
         responsibilities: [
