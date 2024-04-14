@@ -33,9 +33,9 @@ const Navbar = () => {
                     <a className='menu-item' href='#contact' style={{scrollBehavior: 'smooth'}}>Contact Me</a>
                 </li>
 
-                {/* <button className='contact-btn' onClick={() =>{}}>
-                    Hire Me
-                </button> */}
+               <button className='contact-btn' onClick={() =>{}}>
+                <a className='anchor' href='https://docs.google.com/document/d/e/2PACX-1vSLDlWiGOSMfshIyrD3VQR6GXHlkDHVgTXk-OgVfxat1h9hZnZ5Hs2rgzUuNE3tNK-pG7gXAhxH4e88/pub'>Resume</a>
+                </button>
 
                 
             </ul>
