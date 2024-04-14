@@ -42,3 +42,8 @@
         display: block;
     }
 }
+
+.anchor{
+    text-decoration: none;
+    color: aliceblue;
+}
