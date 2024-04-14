@@ -26,8 +26,8 @@ const MobileNav = ({isOpen , toggleMenu}) => {
                         <a className='menu-item' href='#contact'>Contact Me</a>
                     </li>
 
-                    <button className='contact-btn' href='https://docs.google.com/document/d/1cuFdoox0aaHZbRVOATBUlAYnCAb98_rto0gfz0AFsas/edit' onClick={() =>{}}>
-                        Hire Me
+                    <button className='contact-btn' href='#contact'>
+                       <a className='anchor' href='https://docs.google.com/document/d/e/2PACX-1vSLDlWiGOSMfshIyrD3VQR6GXHlkDHVgTXk-OgVfxat1h9hZnZ5Hs2rgzUuNE3tNK-pG7gXAhxH4e88/pub'>Resume</a>
                     </button>
                 </ul>
             </div>
